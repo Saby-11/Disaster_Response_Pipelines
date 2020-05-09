@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-### Objecctive:
+### Objective:
 This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. The dataset contains pre-labelled tweet and messages from real-life disaster events. The project aim is to build a Natural Language Processing (NLP) model to categorize messages on a real time basis.
 
 It has 3 sections:
@@ -18,6 +18,29 @@ It has 3 sections:
 5. Model Loading and Saving Library: Pickle
 6. Web App and Visualization: Flask, Plotly
 
+### File Contents:
+``` Disaster_Response_Pipelines <br/>
+          |-- app <br/>
+                |-- templates<br/>
+                        |-- go.html<br/>
+                        |-- master.html<br/>
+                |-- run.py<br/>
+          |-- data
+                |-- disaster_message.csv
+                |-- disaster_categories.csv
+                |-- DisasterResponse.db
+                |-- process_data.py
+          |-- models
+                |-- classifier.pkl
+                |-- train_classifier.py
+          |-- Pipelines
+                |-- categories.csv
+                |-- ETL Pipeline Preparation.ipynb
+                |-- ETL_preparation.db
+                |-- messages.csv
+                |-- ML Pipeline Preparation.ipynb
+          |-- README 
+```
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
