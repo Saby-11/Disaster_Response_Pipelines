@@ -8,7 +8,7 @@ It has 3 sections:
 2. Building a ML pipeline to train our model
 3. Run a Web App to show our model results
 
-[! Web App](https://github.com/Saby-11/Disaster_Response_Pipelines/blob/master/Web_App.png?raw=true)
+![Web App](https://github.com/Saby-11/Disaster_Response_Pipelines/blob/master/Web_App.png?raw=true)
 
 ### Installations:
 1. Python 3+
@@ -31,7 +31,7 @@ It has 3 sections:
 
 3. Go to http://0.0.0.0:3001/
 
-## Note: Pipelines Folder is not essential to run the Web App.
+#### Note: Pipelines Folder is not essential to run the Web App.
 
 ### Acknowledgements:
 1. [Udacity](www.udacity.com) for this Data Science Nanodegree Program.
